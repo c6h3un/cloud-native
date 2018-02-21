@@ -1,0 +1,11 @@
+---
+---
+
+$header-bg-color-third: #ff9a9e 0%;
+$header-bg-color-secondary: #a1c4fd 0%;
+$header-bg-color: #c2e9fb 100%;
+$section-headings-color: #8ec5fc !default;
+@import "{{ site.theme }}";
+.page-header {
+    background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+}
