@@ -1,4 +1,4 @@
-## cloud-native
+## Cloud Native
 - [The Twelve-Factor App](https://12factor.net/) by Adam Wiggins, Heroku co-founder
 - Cloud Native Series by Joe Beda, Heptio CTO
     - [Cloud Native Part 1: Definition – Heptio](https://blog.heptio.com/cloud-native-part-1-definition-716ed30e9193)
@@ -14,3 +14,8 @@
     - [Perspective on multi-cloud (part 1 of 3) — Thoughts on the cloud providers.](https://blog.heptio.com/perspective-on-multi-cloud-part-1-of-3-6396caf522b5)
     - [Perspective on multi-cloud (part 2 of 3) — On premises plus/vs public cloud](https://blog.heptio.com/perspective-on-multi-cloud-part-2-of-3-on-premises-plus-vs-public-cloud-282818574643)
     - [Perspective on multi-cloud (part 3 of 3) — Availability and multi-cloud](https://blog.heptio.com/perspective-on-multi-cloud-part-3-of-3-availability-and-multi-cloud-5018762d2702)
+- [Heptio Values](https://blog.heptio.com/our-values-8d897f016342)
+    - Honest technology
+    - Diversity
+    - Transparency and kind directness
+    - Unconventional
