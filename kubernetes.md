@@ -9,8 +9,8 @@
 
 ## Auth
 - [Kubernetes Doc - Accessing the API](https://kubernetes.io/docs/admin/accessing-the-api/)  
-    ![Accessing the API](img/accessing-the-api.png){:height="100px"}  
+  ![Accessing the API](img/accessing-the-api.png){:height="200px"}  
 - [Kubernetes Doc - Authorization](https://kubernetes.io/docs/admin/authorization/)  
-    ![Authorization](img/authorization.png){:height="100px"}  
+  ![Authorization](img/authorization.png){:height="200px"}  
 - [How Kubernetes certificate authorities work - Julia Evans](https://jvns.ca/blog/2017/08/05/how-kubernetes-certificates-work/)
 
