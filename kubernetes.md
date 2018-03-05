@@ -16,9 +16,9 @@
 
 ## Extensions  
 - [Kubernetes Doc - Extending Kubernetes](https://kubernetes.io/docs/concepts/overview/extending/)  
-  ![Extending Kuberenetes](img/concept-extensions.png){:height="200px"}  
+  ![Extending Kuberenetes](img/concept-extensions.png){:height="300px"}  
 - [Kubernetes Doc - Extended Kubernetes](https://kubernetes.io/docs/tasks/access-kubernetes-api/http-proxy-access-api/)  
-  ![Extended Kubernetes](img/task-extensions.png){:height="200px"}  
+  ![Extended Kubernetes](img/task-extensions.png){:height="300px"}  
 - [GitHub - rook/operator-kit](https://github.com/rook/operator-kit)
 - [GitHub - kstmp/metacontroller](https://github.com/kstmp/metacontroller)
 - [GitHub - kubernetes/sample-controller](https://github.com/kubernetes/sample-controller)
